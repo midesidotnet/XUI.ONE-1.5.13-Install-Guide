@@ -1,7 +1,5 @@
 # XUI.ONE-1.5.13-Install-Guide
 Step-by-step guide for installing XUI.ONE 1.5.13 on Ubuntu 20.04
-# XUI.ONE 1.5.13 Install Guide
-
 
 Installing XUI.ONE 1.5.13 from scratch is simple if you follow this complete step-by-step tutorial. This guide assumes you have access to a dedicated server running Ubuntu 20.04.
 
